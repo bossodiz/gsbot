@@ -20,7 +20,6 @@ var gsbotUserName = [];
 var gsbotcommand = ['!gsbot help','!gsbot gs']
 var rootRef;
 
-
 //event นี้ทำงานเมื่อ login สำเร็จ
 botRem.on('ready', () => {
     console.log('gsbot ready!');
